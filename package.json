@@ -1,0 +1,28 @@
+{
+  "name": "waifus-for-programmers",
+  "version": "1.0.0",
+  "description": "waifus for programmers for desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelMtz-Tv/playing-electronjs.git"
+  },
+  "keywords": [
+    "waifus",
+    "anime",
+    "programming",
+    "books"
+  ],
+  "author": "Miguel Martinez Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelMtz-Tv/playing-electronjs/issues"
+  },
+  "homepage": "https://github.com/MiguelMtz-Tv/playing-electronjs#readme",
+  "devDependencies": {
+    "electron": "^26.2.0"
+  }
+}
