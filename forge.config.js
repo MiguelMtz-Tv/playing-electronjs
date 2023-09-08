@@ -6,7 +6,14 @@ module.exports = {
   makers: [
     {
       name: '@electron-forge/maker-squirrel',
-      config: {},
+      config: {
+        "name": "my_app",
+        "title": "My App",
+        "useAppId": true,
+        "overwrite": true,
+        "out": "out",
+        "path": "C:\Program Files"
+      },
     },
     {
       name: '@electron-forge/maker-zip',
